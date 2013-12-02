@@ -1,0 +1,22 @@
+.sem {
+	background-color:#81F781;	
+	text-align:center;
+}
+.nsem{
+	background-color:#FE2E2E;	
+	text-align:center;
+}
+.inl{
+	background-color:#FFBF00;	
+	text-align:center;
+}
+.blck{
+	background-color:#0080FF;	
+	text-align:center;
+}
+td {
+	background-color:#E6E6E6;
+}
+.elmnt {
+	 white-space:nowrap;
+}
